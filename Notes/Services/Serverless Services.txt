@@ -1,0 +1,8 @@
+Serverless Services
+
+Serverless- When the underlying infra and os is taken care by csp.
+Serverless is generally by default highly available, scalable and cost effective. You pay as you go.
+
+Some of the serverless services are
+
+DynamoDB, S3, ECS Fargate, AWS Lambda, Step function, Aurora serverless
